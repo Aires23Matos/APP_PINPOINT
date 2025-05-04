@@ -1,6 +1,6 @@
 # APP_PINPOINT
 
-# Tecnologias utilizadas 
+# Tecnologia utilizada 
 REACT NATIVE EXPO
 
 # Teste para Banco de Dados
